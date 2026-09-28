@@ -31,7 +31,7 @@ hello-world-war/
 
 ---
 
-## Build
+#### Build
 
 ```bash
 # From the project root (where pom.xml is)
